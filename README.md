@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Aditya Raj
 
-<!--
-**mradityaraj22/mradityaraj22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Incoming Artificial Intelligence & Computer Science student at the University of Edinburgh.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Data Structures & Algorithms
+- Probability & Statistics
+- Quantitative Finance
+- Machine Learning
+- Deep Learning
+- NLP
+- Research
+
+## Goals
+
+- Jane Street FTTP
+- Jane Street SEE
+- Quant Trading Internships
+- AI Research
+- ML Engineering
+
+## Learning Journey
+
+Everything I learn is documented publicly.
+
+### Main Repositories
+
+- DSA-Journey
+- Probability-Statistics
+- Machine-Learning-Foundations
+- Deep-Learning-Lab
+- NLP-Lab
+- Research-Lab
+- Quant-Prep
