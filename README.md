@@ -5,7 +5,7 @@
 ### 🎓 Incoming Artificial Intelligence & Computer Science Student
 ### 🏛️ University of Edinburgh
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Future+AI+Engineer;Quant+Trading+Enthusiast;Deep+Learning+Explorer;Research+Driven+Builder;University+of+Edinburgh+2026" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Quant+Trading+Enthusiast;Deep+Learning+Explorer;Research+Driven+Builder;University+of+Edinburgh+2026" />
 
 </div>
 
